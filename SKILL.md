@@ -3,7 +3,7 @@ name: detachment-practice
 description: Guide the process of letting go—identifying attachments, understanding their structure, and practicing release (Gelassenheit). Based on Meister Eckhart's teaching that detachment is the highest vir...
 license: MIT
 metadata:
-  version: 1.0.3818
+  version: 1.0.3819
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
